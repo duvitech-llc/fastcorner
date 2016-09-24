@@ -1,0 +1,11 @@
+{
+  "buildFiles": [
+    "D:\\source\\fastcorner\\app\\src\\main\\jni\\Android.mk",
+    "D:\\source\\fastcorner\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

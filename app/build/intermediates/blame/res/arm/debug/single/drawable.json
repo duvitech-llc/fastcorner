@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\drawable\\icon.png",
+        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\drawable\\splashscreen.jpg",
+        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\drawable\\splashscreen.jpg"
+    },
+    {
+        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\drawable\\start_stop_button.xml",
+        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\drawable\\start_stop_button.xml"
+    }
+]
