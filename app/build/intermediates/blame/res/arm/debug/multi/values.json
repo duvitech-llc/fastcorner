@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\source\\fastcorner\\app\\build\\intermediates\\incremental\\mergeArmDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\incremental\\mergeArmDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 0,
@@ -33,7 +33,7 @@
                     "endOffset": 300
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 414
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 568
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 0,
@@ -96,7 +96,7 @@
                     "endOffset": 732
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 0,
@@ -117,7 +117,7 @@
                     "endOffset": 848
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 1040
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -159,7 +159,7 @@
                     "endOffset": 1232
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -180,7 +180,7 @@
                     "endOffset": 1426
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 1,
@@ -201,7 +201,7 @@
                     "endOffset": 1608
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 8,
@@ -221,7 +221,7 @@
                     "endOffset": 1648
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -240,7 +240,7 @@
                     "endOffset": 1727
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -259,7 +259,7 @@
                     "endOffset": 1785
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -278,7 +278,7 @@
                     "endOffset": 1840
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -297,7 +297,7 @@
                     "endOffset": 1891
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -316,7 +316,7 @@
                     "endOffset": 1937
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -335,7 +335,7 @@
                     "endOffset": 1989
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -354,7 +354,7 @@
                     "endOffset": 2039
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -373,7 +373,7 @@
                     "endOffset": 2094
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -392,7 +392,7 @@
                     "endOffset": 2158
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -411,7 +411,7 @@
                     "endOffset": 2220
                 },
                 "from": {
-                    "file": "D:\\source\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,

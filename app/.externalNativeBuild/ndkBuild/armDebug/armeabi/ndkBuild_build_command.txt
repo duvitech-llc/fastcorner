@@ -1,14 +1,14 @@
 Executable : D:\Android\sdk\ndk-bundle\ndk-build.cmd
 arguments : 
 NDK_PROJECT_PATH=null
-APP_BUILD_SCRIPT=D:\source\fastcorner\app\src\main\jni\Android.mk
-NDK_APPLICATION_MK=D:\source\fastcorner\app\src\main\jni\Application.mk
+APP_BUILD_SCRIPT=D:\Qualcomm\fastcorner\app\src\main\jni\Android.mk
+NDK_APPLICATION_MK=D:\Qualcomm\fastcorner\app\src\main\jni\Application.mk
 APP_ABI=armeabi
 NDK_ALL_ABIS=armeabi
 NDEBUG=1
-APP_PLATFORM=android-15
-NDK_OUT=D:\source\fastcorner\app\.externalNativeBuild\ndkBuild\armDebug\obj
-NDK_LIBS_OUT=D:\source\fastcorner\app\build\intermediates\ndkBuild\arm\debug\lib
+APP_PLATFORM=android-19
+NDK_OUT=D:\Qualcomm\fastcorner\app\.externalNativeBuild\ndkBuild\armDebug\obj
+NDK_LIBS_OUT=D:\Qualcomm\fastcorner\app\build\intermediates\ndkBuild\arm\debug\lib
 APP_SHORT_COMMANDS=false
 LOCAL_SHORT_COMMANDS=false
 -n

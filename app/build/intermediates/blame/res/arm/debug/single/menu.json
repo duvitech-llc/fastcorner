@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\splashmenu.xml",
-        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\menu\\splashmenu.xml"
+        "merged": "D:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\menu.xml",
+        "source": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\menu\\menu.xml"
     },
     {
-        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\menu.xml",
-        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\menu\\menu.xml"
+        "merged": "D:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\splashmenu.xml",
+        "source": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\menu\\splashmenu.xml"
     }
 ]

@@ -3,75 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_d555180ac1a40ba36bd72d5264e195c63f23b4cd.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-compat-24.2.1_a841178225471563210c434cb714bcd510baafdc.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_a2c9a0fe9e418a68b34ea80956ee80059dd2f3b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-core-utils-24.2.1_e67b801692efb22454a779cd74b57ba032846a7b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_82cef5eba7e64b8d932d166d625f6900783f1fca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_87375b97b3f60bd25f41883899f8168fae4340b3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-v4-24.2.1_8560bee86c279479ec2659fcc2e5ade7d24e2665.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-media-compat-24.2.1_fa949029b9bb19ef630da313f09406c0836c1600.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_871684dc83ca10612d143493f25d5551948bf71a.jar" />
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-v4-24.2.1_952f66749b4735924d297052a49db2a0fbf88edf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,34 +26,88 @@
         optimize="true"
         revision="24.0.2"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6.jar" />
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-compat-24.2.1_3a15484f077f453eccc3b9c59ebf4e938a5baa67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-fragment-24.2.1_e9dadc634e301dcb8219d922ed5c265dbf9ff9c1.jar" />
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-fragment-24.2.1_bfc66eae7b9e1608cfd6256f975c48c9451407cb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\source\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_2db8f1f2041a5c335e66da2d991e9e835e21cdb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-media-compat-24.2.1_0fb3f865164c354998bdef450c4f1b00703ae5af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_58e0603b686c87242c706b4f2d9ff72135c0e503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\source\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-core-ui-24.2.1_126ae75e47b87c1d4bc7344b483cd3437ea40848.jar" />
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-core-ui-24.2.1_6b53462d129e81d12025b059a4989e487c72e8da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_55371d33a6ff371940f8ccbf31e7486dfdba7c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_1ff569466ff80367bd00a37cc454846b0ae88b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-core-utils-24.2.1_fe6c5143c0c008a94fa6a9a8a2cc7770533999fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_60ba29ec68cb67ba7094adf9a252f87845730910.jar" />
     </item>
 
 </items>

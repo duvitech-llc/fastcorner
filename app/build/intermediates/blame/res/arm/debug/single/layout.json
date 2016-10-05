@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\layout\\preferences.xml",
-        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\layout\\preferences.xml"
+        "merged": "D:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\layout\\about.xml",
+        "source": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\layout\\about.xml"
     },
     {
-        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\layout\\main.xml",
-        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "D:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\layout\\preferences.xml",
+        "source": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\layout\\preferences.xml"
     },
     {
-        "merged": "D:\\source\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\layout\\about.xml",
-        "source": "D:\\source\\fastcorner\\app\\src\\main\\res\\layout\\about.xml"
+        "merged": "D:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\merged\\arm\\debug\\layout\\main.xml",
+        "source": "D:\\Qualcomm\\fastcorner\\app\\src\\main\\res\\layout\\main.xml"
     }
 ]
