@@ -66,21 +66,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-core-ui-24.2.1_6b53462d129e81d12025b059a4989e487c72e8da.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\internal_impl-24.2.1_55371d33a6ff371940f8ccbf31e7486dfdba7c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Qualcomm\fastcorner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Qualcomm\fastcorner\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-core-ui-24.2.1_6b53462d129e81d12025b059a4989e487c72e8da.jar" />
     </item>
     <item
         is-multidex="false"

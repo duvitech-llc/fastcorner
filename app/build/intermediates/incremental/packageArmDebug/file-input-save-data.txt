@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Oct 05 13:16:11 EDT 2016
+#Sat Oct 22 14:05:46 EDT 2016
 8.set=ANDROID_RESOURCE
 1.base=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_
 1.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\layout\\about.xml
@@ -7,7 +7,7 @@
 3.base=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_
 4.set=ANDROID_RESOURCE
 5.base=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_
-5.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\menu\\splashmenu.xml
+5.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\drawable\\splashscreen.jpg
 7.base=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_
 7.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\menu\\menu.xml
 11.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\layout\\preferences.xml
@@ -24,7 +24,7 @@
 6.set=NATIVE_RESOURCE
 2.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main\\classes.dex
 2.base=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main
-4.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\drawable\\splashscreen.jpg
+4.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\menu\\splashmenu.xml
 4.base=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\res\\resources-arm-debug.ap_
 6.base=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\arm\\debug\\folders\\2000\\1f\\main
 6.file=D\:\\Qualcomm\\fastcorner\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\arm\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libfastcvsample.so
